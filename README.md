@@ -11,12 +11,12 @@ Para que el proyecto funcione, primero ejecuta composer update para instalar las
 
 EJECUTAR EN DISTRO DE UBUNTU:
 
-✅ Ejecutar composer update: Abre una terminal dentro del directorio del proyecto Laravel y ejecuta composer update
+✅ Ejecutar composer update: Abre una terminal dentro del directorio del proyecto Laravel y ejecuta composer update.
 
-✅ Copiar el archivo .env.example a .env (si no existe): con el comando cp .env.example .env
+✅ Copiar el archivo .env.example a .env (si no existe): con el comando cp .env.example .env.
 
-✅ Generar la clave de aplicación: con el comando php artisan key:generate
+✅ Generar la clave de aplicación: con el comando php artisan key:generate.
 
-✅ Configurar el entorno local: php artisan serve
+✅ Configurar el entorno local: php artisan serve.
 
-Esto te dará una URL como http://127.0.0.1:8000 para acceder al proyecto
+Esto te dará una URL como http://127.0.0.1:8000 para acceder al proyecto.
