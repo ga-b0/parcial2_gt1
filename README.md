@@ -19,5 +19,4 @@ EJECUTAR EN DISTRO DE UBUNTU:
 
 ✅ Configurar el entorno local: php artisan serve
 
-Esto te dará una URL como http://127.0.0.1:8000 para acceder al proyecto.
-
+Esto te dará una URL como http://127.0.0.1:8000 para acceder al proyecto
